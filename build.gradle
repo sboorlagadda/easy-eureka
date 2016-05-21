@@ -15,7 +15,6 @@ apply plugin: 'idea'
 ext {
     name = 'Eureka Server'
     description = 'Easy stack`s discovery service based on spring-cloud-eureka' 
-    version='0.0.1-SNAPSHOT'
     sourceEncoding='UTF-8'
 }
 

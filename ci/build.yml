@@ -9,6 +9,7 @@ image_resource:
 
 inputs:
 - name: easy-eureka
+- name: eureka-version
 
 outputs:
 - name: builds
